@@ -1,0 +1,267 @@
+body
+{
+    background-color: #f4f4f4;
+    padding: 20px;
+    font-family: segoe ui;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hero-section
+{
+    background-color: darkblue;
+    padding:40px 0px ;
+    text-align: center;
+    color: white;
+    border-radius: 14px;
+}
+.hero-container
+{
+    width: 95%;
+    margin: 0 auto;
+}
+.hero-container h1
+{
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.subtitle
+{
+    margin-bottom: 15px;
+    font-size: 18px;
+    color: lightblue;
+    font-weight: 500;
+}
+.hero-nav a
+{
+    text-decoration: none;
+    border: solid 1px rgba(255, 255, 255, 0.13);
+    padding: 5px 10px ;
+    border-radius: 15px;
+    display: inline-block;
+    color: white;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.about-section
+{
+    background-color: #fff;
+    padding: 30px 0px;
+    border-radius: 14px;
+    margin-top: 30px;
+}
+.profile-img
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+.section-title
+{
+    color: darkblue;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ccc;
+}
+.about-container
+{
+    width: 95%;;
+    margin: 0 auto;
+}
+.content
+{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 10px;
+}
+.about-text
+{
+    line-height: 2.2;
+}
+.text-color
+{
+    color: darkblue;
+    font-weight: 700;
+    font-size: 18px;
+}
+.content a
+{
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    border-radius:10px;
+    color: #fff;
+    background-color: darkblue;
+}
+.skills-section
+{
+    background-color: white;
+    padding: 30px 0px;
+    margin: 30px 0px;
+    border-radius: 14px;
+
+}
+.skills-container
+{
+    width: 95%;
+    margin: 0 auto;
+}
+.my-skills
+{
+    color: darkblue;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 15px;
+}
+.skills-text
+{
+    margin-bottom: 20px;
+}
+.skills-box
+{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.box
+{
+    width: 25%;
+    padding: 10px;
+}
+.skills-list h3
+{
+    color: darkblue;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.skills-list p
+{
+    color: gray;
+    line-height: 1.6;
+    font-size: 18px;
+}
+.skills-list
+{
+    background-color: #f4f4f4;
+    padding: 30px;
+    border-radius: 14px;
+}
+.experience-section
+{
+    background-color: white;
+    padding: 30px 0px;
+    border-radius: 15px;
+    
+}
+.experience-container
+{
+    width: 95%;
+    margin: 0 auto;
+}
+.experience
+{
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    color: darkblue;
+}
+.exp-info
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.experience-content img
+{
+    width: 80px;
+    height: 80px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 15px;
+}
+.experience-text
+{
+    font-size: 20px;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+.exp-company
+{
+    display: block;
+    color: darkblue;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.exp-date
+{
+    margin-bottom: 15px;
+    display: inline-block;
+}
+.experience-content
+{
+    background-color: #f4f4f4;
+    border-left: solid 4px darkblue;
+    border-radius: 13px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.experience-content p
+{
+    margin-top: 5px;
+    font-size: 18px;
+
+
+}
+.contact-section
+{
+    background-color: darkblue;
+    padding: 30px 0px;
+    margin: 30px 0;
+    border-radius: 14px;
+}
+.contact-container
+{
+    width: 95%;
+    margin: 0 auto;
+    padding: 10px;
+}
+.contact
+{
+    padding-bottom: 15px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 10px;
+    color: white;
+}
+.contact-text
+{
+    margin-top:20px ;
+    color: white;
+}
+.contact-content a
+{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgba(255, 255, 255, 0.13);
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 8px;
+    color: white;
+}
+
+
+
+
+ 
+   
+
+
+
+ 
+
+ 
